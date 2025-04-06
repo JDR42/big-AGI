@@ -14,7 +14,7 @@
     "db:studio": "prisma studio",
     "vercel:env:pull": "npx vercel env pull .env.development.local",
     "test": "vitest run",
-    "trivial": "echo 123"
+    "trivial": "echo 1234"
   },
   "prisma": {
     "schema": "src/server/prisma/schema.prisma"
